@@ -1,6 +1,6 @@
 # 💻 Hi, I'm Harshika Bighane 👋  
 
-### 🚀 B.Tech Computer Science Engineering Student | Frontend Developer |UI/UX Enthusiast
+### 🚀 B.Tech Computer Science Engineering Student | Frontend Developer | UI/UX Enthusiast
 
 ---
 
@@ -12,7 +12,7 @@ I enjoy turning ideas into impactful digital products — from responsive web ap
 
 - 🎓 B.Tech CSE (3nd Year)  
 - 💡 Interested in Web Development & IoT  
-- 🌱 Currently exploring & Smart Automation Systems  
+- 🌱 Currently exploring  Smart Automation Systems  
 - 🎯 Focused on clean, scalable and efficient code  
 
 ---
