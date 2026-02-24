@@ -10,7 +10,7 @@ Hi there! I'm **Harshika Bighane**, a passionate Computer Science Engineering st
 
 I enjoy turning ideas into impactful digital products — from responsive web applications to intelligent AI-based systems. I am continuously learning and exploring new technologies to strengthen my development and problem-solving skills.  
 
-- 🎓 B.Tech CSE (3nd Year)  
+- 🎓 B.Tech CSE (3rd Year)  
 - 💡 Interested in Web Development & IoT  
 - 🌱 Currently exploring  Smart Automation Systems  
 - 🎯 Focused on clean, scalable and efficient code  
