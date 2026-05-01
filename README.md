@@ -1,65 +1,84 @@
-# 💻 Hi, I'm Harshika Bighane 👋  
+💻 Hi, I'm Harshika Bighane 👋
 
-### 🚀 B.Tech Computer Science Engineering Student | Frontend Developer | UI/UX Enthusiast
+🚀 B.Tech Computer Science Engineering Student | Web Developer | UI/UX Enthusiast
 
----
 
-## 👩‍💻 About Me  
 
-Hi there! I'm **Harshika Bighane**, a passionate Computer Science Engineering student who loves building real-world tech solutions.  
+👩‍💻 About Me
 
-I enjoy turning ideas into impactful digital products — from responsive web applications to intelligent AI-based systems. I am continuously learning and exploring new technologies to strengthen my development and problem-solving skills.  
+I’m Harshika Bighane, a passionate Computer Science Engineering student who enjoys building real-world, impactful tech solutions.
 
-- 🎓 B.Tech CSE (3rd Year)  
-- 💡 Interested in Web Development & IoT  
-- 🌱 Currently exploring  Smart Automation Systems  
-- 🎯 Focused on clean, scalable and efficient code  
+I specialize in transforming ideas into functional, user-friendly digital products — from responsive web interfaces to intelligent systems.
 
----
+I am continuously exploring new technologies to strengthen my development, design, and problem-solving skills.
 
-## 🛠️ Tech Stack & Skills  
+🎓 B.Tech CSE (3rd Year)
+💡 Strong interest in Web Development & IoT
+🌱 Currently exploring Smart Automation Systems
+🎯 Focused on writing clean, scalable, and efficient code
 
-### 💻 Programming Languages  
-- C  
-- C++  
-- Python  
-- JavaScript  
 
-### 🌐 Web Development  
+🌐 Portfolio
+
+🔗 Explore my work:
+https://harshika-portfolio-my.vercel.app/
+
+--------------------------------------------------
+
+🛠️ Tech Stack & Skills
+
+💻 Programming Languages
+- C
+- C++
+- Python
+- JavaScript
+
+🌐 Web Development
 - HTML
 - CSS
-- Bootstrap  
-- React (Basics)  
-- Responsive UI Design  
+- Bootstrap
+- React (Basics)
+- Responsive UI Design
 
-### 🧰 Tools & Platforms  
-- Git & GitHub  
-- VS Code   
-- Canva  
+🧰 Tools & Platforms
+- Git & GitHub
+- VS Code
+- Canva
 
----
+--------------------------------------------------
 
-## 📌 Projects  
+📌 Projects
 
-- 🌾 **Smart Agriculture Rover** – IoT-based crop monitoring & automation system   
-- 🌐 **Responsive Web Applications** – Modern UI-based frontend projects  
+🌾 Smart Agriculture Rover
+IoT-based crop monitoring and automation system designed to improve agricultural efficiency.
 
----
+🌐 Responsive Web Applications
+Developed modern frontend projects focusing on clean UI, responsiveness, and user experience.
 
-## 📈 Goals  
+🚚 Logistics Management Website  
+Designed and developed a responsive logistics platform to manage transportation, deliveries, and operational workflows.  
+Focused on clean UI/UX, structured data flow, and efficient system design.
 
-- Contribute to Open Source  
-- Build Scalable Full-Stack Applications  
-- Develop AI-powered real-world solutions  
 
----
 
-## 📫 Connect With Me  
 
-- 💼 LinkedIn: (https://www.linkedin.com/in/harshika-bighane-1a9b4629a) 
-- 📧 Email: harshikabighane868@gmail.com
+📈 Goals
 
----
+🚀 Contribute to Open Source
+⚡ Build Scalable Full-Stack Applications
+🤖 Develop AI-powered real-world solutions
 
-✨ *"Building today to innovate tomorrow."*  
 
+📫 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/harshika-bighane-1a9b4629a
+
+📧 Email:
+harshikabighane868@gmail.com
+
+
+
+✨ Motto
+
+"Building today to innovate tomorrow."
